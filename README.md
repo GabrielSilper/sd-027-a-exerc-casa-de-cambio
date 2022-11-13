@@ -12,8 +12,8 @@ O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEi
 - [x] Instalar Vite como Dev Tool e `npm run dev`.
 
 ### 2. Estrutura da Aplicação
-- [ ] Estruturar o HTML de acordo com [protótipo](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1).
-- [ ] Criar tags semânticas no HTML.
+- [x] Estruturar o HTML de acordo com [protótipo](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1).
+- [x] Criar tags semânticas no HTML.
 
 ### 3. Interação com API
 - [ ] A api está documentada nesse [link](https://exchangerate.host/#/#docs).
