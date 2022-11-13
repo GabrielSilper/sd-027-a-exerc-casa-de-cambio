@@ -16,9 +16,9 @@ O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEi
 - [x] Criar tags semânticas no HTML.
 
 ### 3. Interação com API
-- [ ] A api está documentada nesse [link](https://exchangerate.host/#/#docs).
-- [ ] A moeda a ser pesquisada deverá ser passada como parâmetro do _endpoint_.
-- [ ] Todas as moedas deverão ser listadas na tela.
+- [x] A api está documentada nesse [link](https://exchangerate.host/#/#docs).
+- [x] A moeda a ser pesquisada deverá ser passada como parâmetro do _endpoint_.
+- [x] Todas as moedas deverão ser listadas na tela.
 
 ### 4. Tratamento de Erro
 - [ ] Você deve usar o [Sweet Alert 2](https://sweetalert2.github.io/) para as mensagens de Erro.
