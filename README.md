@@ -21,9 +21,9 @@ O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEi
 - [x] Todas as moedas deverão ser listadas na tela.
 
 ### 4. Tratamento de Erro
-- [ ] Você deve usar o [Sweet Alert 2](https://sweetalert2.github.io/) para as mensagens de Erro.
-- [ ] Um erro deverá aparecer quando nenhuma moeda é passada.
-- [ ] Um erro deverá aparecer quando uma moeda inexistente é passada.
+- [x] Você deve usar o [Sweet Alert 2](https://sweetalert2.github.io/) para as mensagens de Erro.
+- [x] Um erro deverá aparecer quando nenhuma moeda é passada.
+- [x] Um erro deverá aparecer quando uma moeda inexistente é passada.
 
 ### 5. Estilização (Bônus)
-- [ ] Implementação do [protótipo de alta fidelidade](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1)
+- [90%] Implementação do [protótipo de alta fidelidade](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1)

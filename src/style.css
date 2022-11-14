@@ -1,5 +1,127 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #282c33;
+}
+
+h1 {
+  position: absolute;
+  width: 517px;
+  height: 74px;
+  left: 306px;
+  top: 63px;
+
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 79px;
+
+  color: #ffffff;
+}
+
+h1 span {
+  color: #95eba8;
+}
+
+p {
+  position: absolute;
+  width: 111px;
+  height: 15px;
+  left: 307px;
+  top: 165px;
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+#coin-input {
+  position: absolute;
+  padding: 20px;
+  width: 171px;
+  height: 48px;
+  left: 306px;
+  top: 185px;
+  border: none;
+  background: rgba(217, 217, 217, 0.1);
+  border-radius: 10px;
+  font-family: "Fira Code";
+  color: white;
+}
+
+#btn-pesquisar {
+  position: absolute;
+  box-sizing: border-box;
+  width: 171px;
+  height: 48px;
+  left: 491px;
+  top: 185px;
+  background: #96eb95;
+  border: 1px solid #96eb95;
+  border-radius: 10px;
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  color: #373737;
+}
+
+#coin-list-container {
+  width: 900px;
+  height: auto;
+  margin-left: 306px;
+  margin-top: 290px;
+  margin-bottom: 50px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h3 {
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 31px;
+  color: #ffffff;
+  margin-top: 24px;
+  margin-bottom: 28px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 22px;
+  margin-bottom: 22px;
+}
+
+li {
+  font-size: 16px;
+  font-family: "Fira Code";
+  font-weight: 400;
+  list-style-position: inside;
+  width: 150px;
+  height: 44px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  color: white;
+  list-style-image: url(../images/coins-svgrepo-com\ 1coin.png);
+}
+
+li span {
+  color: #ffe713;
 }
